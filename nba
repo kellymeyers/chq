@@ -1,1 +1,32 @@
 AND -("http" OR "https" OR "denver" OR "basketball" OR "gold" OR "NBA" OR "warriors" OR "game" OR "go nuggets" OR "lets go nuggets" OR "blazers" OR "winning" OR "points" OR "losing" OR "lost" OR "knicks" OR "calveliers" OR "miami" OR "cleveland" OR "Lakers" OR "celtics" OR "mavericks" OR "nets" OR "rockets" OR "grizzlies" OR "76ers" OR "sixers" OR "pelicans" OR "raptors" OR "spurs" OR "timberwolves" OR "cavaliers" OR "pistons" OR "timberwolves" OR "thunder" OR "pacers" OR "jazz" OR "bucks" OR "chicago" OR "minnesota" OR "cleveland" OR "detroit" OR "Indiana" OR "Portland" OR "milwaukee" OR "utah" OR "atlanta" OR "hawks" OR "golden state" OR "charlotte" OR "hornets" OR "clippers" OR "LA" OR "Phoenix" OR "suns" OR "orlando" OR "Magic" OR "washington" OR "wizards" OR "sacramento" OR "kings")
+
+Boston Celtics	bos	boston-celtics
+Brooklyn Nets	bkn	brooklyn-nets
+New York Knicks	ny	new-york-knicks
+Philadelphia 76ers	phi	philadelphia-76ers
+Toronto Raptors	tor	toronto-raptors
+Golden State Warriors	gs	golden-state-warriors
+Los Angeles Clippers	lac	los-angeles-clippers
+Los Angeles Lakers	lal	los-angeles-lakers
+Phoenix Suns	phx	phoenix-suns
+Sacramento Kings	sac	sacramento-kings
+Chicago Bulls	chi	chicago-bulls
+Cleveland Cavaliers	cle	cleveland-cavaliers
+Detroit Pistons	det	detroit-pistons
+Indiana Pacers	ind	indiana-pacers
+Milwaukee Bucks	mil	milwaukee-bucks
+Dallas Mavericks	dal	dallas-mavericks
+Houston Rockets	hou	houston-rockets
+Memphis Grizzlies	mem	memphis-grizzlies
+New Orleans Hornets	no	new-orleans-hornets
+San Antonio Spurs	sa	san-antonio-spurs
+Atlanta Hawks	atl	atlanta-hawks
+Charlotte Bobcats	cha	charlotte-bobcats
+Miami Heat	mia	miami-heat
+Orlando Magic	orl	orlando-magic
+Washington Wizards	wsh	washington-wizards
+Denver Nuggets	den	denver-nuggets
+Minnesota Timberwolves	min	minnesota-timberwolves
+Oklahoma City Thunder	okc	oklahoma-city-thunder
+Portland Trail Blazers	por	portland-trail-blazers
+Utah Jazz
